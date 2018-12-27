@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542567179 source:f:\codeblocks coding\priorityqueue_alloperations\main.cpp
+	<iostream>
+	<queue>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1530170572 source:f:\codeblocks coding\quiz1\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+

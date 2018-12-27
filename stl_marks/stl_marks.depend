@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539679589 source:f:\codeblocks coding\stl_marks\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

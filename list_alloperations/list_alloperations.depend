@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1541416922 source:f:\codeblocks coding\list_alloperations\main.cpp
+	<iostream>
+	<list>
+

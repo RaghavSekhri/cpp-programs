@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1541354472 source:f:\codeblocks coding\vector_subscript\main.cpp
+	<iostream>
+	<vector>
+
+1543080755 source:f:\codeblocks coding\vector_alloperations\main.cpp
+	<iostream>
+	<vector>
+

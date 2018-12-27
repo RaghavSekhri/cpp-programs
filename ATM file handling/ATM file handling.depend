@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1528878214 source:f:\codeblocks coding\atm file handling\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+

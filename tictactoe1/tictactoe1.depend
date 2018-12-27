@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1534351397 source:f:\codeblocks coding\tictactoe1\main.cpp
+	<iostream>
+	<string.h>
+

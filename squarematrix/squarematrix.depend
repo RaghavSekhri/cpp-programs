@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1531124676 source:f:\codeblocks coding\squarematrix\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1531198105 source:f:\codeblocks coding\squarematrix\main.cpp
+	<iostream>
+
