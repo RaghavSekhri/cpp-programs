@@ -2,7 +2,6 @@
 
 using namespace std;
 
-// Exception handling in c++
 
 
 
