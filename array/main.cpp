@@ -3,8 +3,8 @@
 using namespace std;
 
 int main()
-{
-   int a[5];
+
+   int *a=new int[5];//dynamically allocated the memory
    int i;
    for(i=0;i<5;i++)
    {
