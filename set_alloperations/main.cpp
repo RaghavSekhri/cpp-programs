@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    set<int> s;
+    set<int> s;                     <!--declaring a set with datatype int-->
     for(int i=0;i<10;i++)
     {
         s.insert(10-i);
