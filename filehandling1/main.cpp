@@ -1,3 +1,4 @@
+//code starts
 #include <iostream>
 #include <fstream>
 using namespace std;
@@ -25,3 +26,4 @@ int main()
     obj.run();
     return 0;
 }
+// code ends
