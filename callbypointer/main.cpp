@@ -4,8 +4,7 @@ using namespace std;
 
 int swap(int *a,int *b)
 {
- int t;
- t=*a;
+ int t=*a;
  *a=*b;
  *b=t;
  cout<<*a<<endl<<*b<<endl;
