@@ -17,8 +17,7 @@ int main()
 
 void swap1(int x,int y)
 {
-    int temp;
-    temp=x;
+    int temp=x;
     x=y;
     y=temp;
     cout<<"The values of a and b inside function is : "<<x<<" & "<<y<<endl;
